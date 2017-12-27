@@ -1,0 +1,4 @@
+module CXCB [system] {
+  header "module.h"
+  export *
+}
